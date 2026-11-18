@@ -1,0 +1,28 @@
+# Секреты
+.env
+.env.*
+!.env.example
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE и ОС
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Логи
+*.log
+
+# Локальные данные vkbottle
+.vkbottle/
